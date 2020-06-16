@@ -1,0 +1,54 @@
+﻿h1 {
+    color: #ff4081 !important;
+    margin-top: 50px !important;
+    margin-bottom: 10px !important;
+}
+
+h2 {
+    color: black !important;
+    margin-bottom: 40px !important;
+}
+.forgotlink {
+    margin-top: 30px !important;
+    /*margin-left:48px !important;*/
+}
+
+.signup {
+    margin-left: 30px !important;
+}
+.option {
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+}
+select {
+    width: 60px;
+    height: 32px;
+}
+
+input {
+    width: 30px;
+}
+
+.ShowHideColumn {
+    height: 18px !important;
+    padding: 0px !important;
+}
+.dataTables_wrapper .dataTables_filter input {
+    width: 200px !important;
+    height: 32px;
+}
+
+.btn-group, .btn-group-vertical {
+margin-top:-66px !important;
+float:right !important;
+}
+
+    .btn-group-vertical > .btn, .btn-group > .btn {
+        background-color: #5cb85c !important;
+        color:white !important;
+          
+    }
+.dataTables_wrapper .dataTables_paginate .paginate_button{
+    padding : 0 ;
+}
+
